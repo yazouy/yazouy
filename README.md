@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yazouy
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning Aleo
-Discord name = "yassou1133"
+- Discord name = "yassou1133"
 
 
 <!---
